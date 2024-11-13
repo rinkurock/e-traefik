@@ -1,0 +1,5 @@
+*
+!.gitignore
+!example-acme.json
+!example-traefik.yml
+!example-cf_api_token.txt

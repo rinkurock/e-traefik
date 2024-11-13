@@ -1,0 +1,7 @@
+logs
+.env
+.idea
+.DS_Store
+docker-compose.yaml
+own.yml
+.vscode
